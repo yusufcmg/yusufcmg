@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yusuf 👋
 
-<!--
-**yusufcmg/yusufcmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring AI developer working on algorithmic trading, backend systems, and machine learning.
 
-Here are some ideas to get you started:
+## 🚀 Technologies
+- Languages: Python, JavaScript, TypeScript
+- Tools: React, Node.js, Pandas, NumPy, TensorFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Focus
+- Developing AI-powered trading bots
+- Enhancing my backend development skills
+- Sharing knowledge and contributing to open-source
+
+## 📫 Reach Me
+- LinkedIn: linkedin.com/in/yusufcamagac
+- Mail: yusufcmgc@gmail.com
