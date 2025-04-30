@@ -12,5 +12,5 @@ I'm an aspiring AI developer working on algorithmic trading, backend systems, an
 - Sharing knowledge and contributing to open-source
 
 ## 📫 Reach Me
-- LinkedIn: linkedin.com/in/yusufcamagac
+- LinkedIn: [linkedin.com/in/yusufcamagac](https://www.linkedin.com/in/yusufcamagac)
 - Mail: yusufcmgc@gmail.com
